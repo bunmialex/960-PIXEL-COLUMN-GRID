@@ -1,0 +1,78 @@
+
+.header {
+  font-family: "Courier New", Courier, monospace;
+  color: lightslategray;
+  font-size: 10px;
+  margin: 0px 110px;
+}
+.parent {
+  width: 600px;
+  height: 640px;
+  border: 2px solid darkgrey;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  margin: auto;
+}
+
+#nine {
+  background-color: red;
+  opacity: 0.8;
+  padding: 42px;
+  margin: 10px;
+}
+#four1,
+#four2 {
+  background-color: red;
+  opacity: 0.8;
+  padding: 42px;
+  margin: 10px;
+  width: 196px;
+  float: left;
+}
+#three1,
+#three2,
+#three3 {
+  background-color: red;
+  opacity: 0.8;
+  padding: 42px;
+  margin: 10px;
+  width: 96px;
+  float: left;
+}
+#two1,
+#two2,
+#two3,
+#two4 {
+  background-color: red;
+  opacity: 0.8;
+  padding: 42px;
+  margin: 10px;
+  width: 46px;
+  float: left;
+}
+#one1,
+#one2,
+#one3,
+#one4,
+#one5,
+#one6 {
+  background-color: red;
+  opacity: 0.8;
+  padding: 42px;
+  margin: 10px 5px 10px 10px;
+  width: 0px;
+  float: left;
+}
+#equal {
+  background-color: lightgray;
+  margin: 0px 10px;
+  height: 640px;
+  width: 30px;
+  margin: 10px;
+  float: left;
+  position: relative;
+  bottom: 650px;
+  z-index: -1;
+}
